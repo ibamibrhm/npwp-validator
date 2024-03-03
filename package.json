@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibamibrhm/npwp-validator"
+    "url": "git+https://github.com/ibamibrhm/npwp-validator.git"
   },
   "keywords": [
     "npwp",
