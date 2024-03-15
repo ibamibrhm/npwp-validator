@@ -1,5 +1,9 @@
 # npwp-validator
 
+[![npm version](https://img.shields.io/npm/v/npwp-validator.svg?style=flat-square)](https://www.npmjs.org/package/npwp-validator)
+[![npm downloads](https://img.shields.io/npm/dt/npwp-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=npwp-validator)
+[![npm license](https://img.shields.io/npm/l/npwp-validator?style=flat-square&color=red)](https://github.com/ibamibrhm/npwp-validator/blob/master/LICENSE)
+
 `npwp-validator` adalah library yang dibuat untuk mempermudah validasi dan pemformatan Nomor Pokok Wajib Pajak (NPWP) Indonesia.
 
 ## Instalasi
